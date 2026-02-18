@@ -57,7 +57,7 @@
 ### 🐍 Actividad de contribuciones
 
 <p align="center">
-  <img src="https://github.com/PabloMartinez29/PabloMartinez29/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
