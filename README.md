@@ -45,15 +45,11 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=dark&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PabloMartinez29&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=dark&cache_seconds=86400" />
 </p>
 
 ---
