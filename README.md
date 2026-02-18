@@ -1,5 +1,10 @@
-<h1 align="center">Juan Pablo Martinez Lievano</h1>
-<h3 align="center">Desarrollador Web | Backend</h3>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Juan+Pablo+Martinez+Lievano;Desarrollador+Web+%26+Backend" 
+    alt="Typing SVG"
+  />
+</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
@@ -42,15 +47,17 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloMartinez29&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PabloMartinez29&theme=github_dark" />
+  
 </p>
+
 
 
 ---
@@ -67,12 +74,19 @@
 
 <p align="center">
   <a href="mailto:jpml11292006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jpml11292006%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-jpml11292006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/573508884148">
+    <img src="https://img.shields.io/badge/WhatsApp-+57%20350%20888%204148-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/PabloMartinez29">
-    <img src="https://img.shields.io/badge/GitHub-PabloMartinez29-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-PabloMartinez29-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
 
 ---
 
