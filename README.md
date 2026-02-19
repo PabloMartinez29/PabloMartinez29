@@ -6,9 +6,7 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;PHP+%7C+Laravel+%7C+MySQL;APIs+REST+%7C+Software+Development;Always+Learning+%F0%9F%9A%80" />
