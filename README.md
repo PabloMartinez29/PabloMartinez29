@@ -27,7 +27,7 @@
 ### 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,react,python,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,react,python,django,git,github,postman," />
 </p>
 
 <p align="center">
