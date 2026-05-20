@@ -38,23 +38,25 @@
 
 #  Estadísticas GitHub
 
-<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight" 
+/>
 
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
+</td>
 
-</p>
+<td width="50%" align="center">
 
----
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight" 
+/>
+
+</td>
+</tr>
+</table>
 
 #  Racha de contribuciones
 
@@ -67,15 +69,7 @@
 
 
 
-# Resumen del perfil
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloMartinez29&theme=tokyonight"
-    alt="Profile Summary"
-  />
-</p>
-
+#
 # Actividad de contribuciones
 
 <p align="center">
