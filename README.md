@@ -4,71 +4,59 @@
     alt="Typing SVG"
   />
 </h1>
-
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;PHP+%7C+Laravel+%7C+MySQL;APIs+REST+%7C+Software+Development;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&center=true&vCenter=true&width=500&lines=Desarrollador+Backend;PHP+%7C+Laravel+%7C+MySQL;APIs+REST+%7C+Desarrollo+de+Software;Siempre+Aprendiendo" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
-- 🎓 Técnico en Sistemas y Tecnólogo en Análisis y Desarrollo de Software (SENA)
-- 💻 Desarrollador web con enfoque en backend
-- 🔧 Experiencia en PHP, Laravel, MySQL y consumo de APIs REST
-- 📊 Participación en análisis, desarrollo y documentación de software
-- 🌱 Aprendizaje continuo y trabajo en equipo
+- Técnico en Sistemas y cursando Tecnología en Análisis y Desarrollo de Software (SENA)
+- Desarrollador web con enfoque en backend
+- Experiencia en PHP, Laravel, MySQL y consumo de APIs REST
+- Participación en análisis, desarrollo y documentación de software
+- Aprendizaje continuo y trabajo en equipo
 
 ---
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,react,python,django,git,github,postman," />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,react,python,django,git,github,postman,aws,linux,figma,vite,vue&theme=dark" />
+</p>
+
+
+
+---
+
+### Estadísticas GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
+  <img src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=github-dark-blue&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" />
 </p>
-
----
-
-### 📌 Proyectos destacados
-
-- 🌱 **Sistema de gestión de compostaje** https://compostcefa.online
-- ☕ **AgroCafé** – Plataforma de compra y venta de café
-- 🧩 Desarrollo de sistemas web con PHP y Laravel
-- 🔗 Consumo y pruebas de APIs REST con Postman
-
----
-
-### 📊 Actividad en GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloMartinez29&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PabloMartinez29&theme=github_dark" />
-  
-</p>
-
-
-
 ---
 
-### 🐍 Actividad de contribuciones
+### Actividad de contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-### 📫 Contacto
+
+
+### Contacto
 
 <p align="center">
   <a href="mailto:jpml11292006@gmail.com">
@@ -84,9 +72,6 @@
   </a>
 </p>
 
-
-
 ---
 
-⭐ *Siempre abierto a aprender y mejorar como desarrollador.*
-
+<p align="center">Siempre abierto a aprender y mejorar como desarrollador.</p>
