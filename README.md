@@ -14,18 +14,18 @@
 
 ---
 
-#  Sobre mí
+## Sobre mí
 
 - Técnico en Sistemas
 - Tecnólogo en ADSO - SENA
-- Desarrollador Frontend
+- Desarrollador Backend & Web
 - Experiencia en PHP, Laravel y MySQL
 - Consumo y desarrollo de APIs REST
 - Trabajo en equipo y aprendizaje continuo
 
 ---
 
-#  Tecnologías
+## Tecnologías
 
 <p align="center">
   <img 
@@ -36,7 +36,7 @@
 
 ---
 
-#  Estadísticas GitHub
+## Estadísticas GitHub
 
 <table align="center">
 <tr border="none">
@@ -44,6 +44,7 @@
 
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight" 
+  alt="GitHub Stats"
 />
 
 </td>
@@ -52,13 +53,14 @@
 
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight" 
+  alt="Lenguajes más usados"
 />
 
 </td>
 </tr>
 </table>
 
-#  Racha de contribuciones
+## Racha de contribuciones
 
 <p align="center">
   <img 
@@ -67,10 +69,7 @@
   />
 </p>
 
-
-
-#
-# Actividad de contribuciones
+## Actividad de contribuciones
 
 <p align="center">
   <img 
@@ -79,9 +78,7 @@
   />
 </p>
 
-
-
-# 📫 Contacto
+## 📫 Contacto
 
 <p align="center">
   <a href="mailto:jpml11292006@gmail.com">
@@ -106,9 +103,6 @@
   </a>
 </p>
 
-
 <p align="center">
   🚀 Siempre abierto a aprender y mejorar como desarrollador.
 </p>
-
-
