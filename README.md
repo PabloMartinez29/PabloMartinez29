@@ -43,7 +43,7 @@
 <td width="50%" align="center">
 
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&v=20260710" 
   alt="GitHub Stats"
 />
 
@@ -52,7 +52,7 @@
 <td width="50%" align="center">
 
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&v=20260710" 
   alt="Lenguajes más usados"
 />
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260710"
     alt="GitHub Streak"
   />
 </p>
