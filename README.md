@@ -29,7 +29,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,react,python,django,git,github,postman,linux,figma,vite,vue&theme=dark" 
+    src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,react,python,django,git,github,postman,linux,figma,vite,vue,aws&theme=dark" 
     alt="Tecnologías"
   />
 </p>
