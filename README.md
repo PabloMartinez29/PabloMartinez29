@@ -28,10 +28,26 @@
 ## Tecnologías
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,react,python,django,git,github,postman,linux,figma,vite,vue,aws&theme=dark" 
-    alt="Tecnologías"
-  />
+  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
+  <a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
+  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" /></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
+  <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
+  <a href="https://vitejs.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /></a>
+  <a href="https://vuejs.org/" title="Vue"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" /></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
 </p>
 
 ---
