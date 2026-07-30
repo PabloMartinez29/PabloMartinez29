@@ -90,12 +90,10 @@
 ## 🎧 Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/login">
-    <img src="https://img.shields.io/badge/Conectar_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Conectar Spotify"/>
+  <a href="https://open.spotify.com/user/31ualxxyn7ycjwujqigjxg47q4fq">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ualxxyn7ycjwujqigjxg47q4fq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f" alt="Spotify Now Playing"/>
   </a>
 </p>
-
-> Para activar la canción en vivo: entra al enlace de arriba, inicia sesión con Spotify, copia el `uid` que te dan y pásamelo para ponerlo aquí.
 
 ---
 
