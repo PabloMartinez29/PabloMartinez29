@@ -55,7 +55,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260730" alt="GitHub Streak"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=PabloMartinez29&theme=tokyonight&hide_border=true&type=png&v=20260730b" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
@@ -68,8 +70,12 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260730" alt="Contribution Graph" width="100%"/>
     </td>
     <td width="28%" valign="top" align="center">
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ualxxyn7ycjwujqigjxg47q4fq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="spotify-github-profile" width="220"/>
+      <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
+        <img src="https://i.scdn.co/image/ab67616d0000e1a381a3bb9348718b9703364c1c" width="220" alt="Save Your Tears - The Weeknd"/>
+      </a>
+      <br/>
+      <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
+        <img src="https://img.shields.io/badge/♪_Save_Your_Tears-The_Weeknd-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Save Your Tears"/>
       </a>
     </td>
   </tr>
