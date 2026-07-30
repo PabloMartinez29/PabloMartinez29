@@ -14,9 +14,8 @@
 ## 👨🏻‍💻 Sobre mí
 
 - 🎓 Tecnólogo en Análisis y Desarrollo de Software
-- 💻 Desarrollador de software
 - 🎨 Apasionado por el desarrollo web, la experiencia de usuario (UI/UX) y el Backend
-- ☁ Interesado en Cloud Computing e Inteligencia Artificial
+- ☁ Interesado en AWS e IA
 - 🚀 Siempre aprendiendo nuevas tecnologías
 
 ---
