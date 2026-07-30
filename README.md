@@ -1,124 +1,132 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Juan+Pablo+Martinez+Lievano;Desarrollador+Backend+%26+Web" 
-    alt="Typing SVG"
-  />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Juan+Pablo+Martinez+Lievano;Full+Stack+Developer;Frontend+%E2%80%A2+Backend+%E2%80%A2+Cloud;Always+Learning+New+Technologies"/>
+
 </h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=PHP+%7C+Laravel+%7C+MySQL;APIs+REST+%7C+Backend;Siempre+Aprendiendo" 
-    alt="Typing SVG"
-  />
+
+<img src="https://komarev.com/ghpvc/?username=PabloMartinez29&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
 
-## Sobre mí
+# 👨🏻‍💻 Sobre mí
 
-- Técnico en Sistemas
-- Tecnólogo en ADSO - SENA
-- Desarrollador Backend & Web
-- Experiencia en PHP, Laravel y MySQL
-- Consumo y desarrollo de APIs REST
-- Trabajo en equipo y aprendizaje continuo
+- 🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA)
+- 💻 Full Stack Developer
+- 🎨 Apasionado por el desarrollo Frontend, la experiencia de usuario (UI/UX) y el Backend
+- ☁ Interesado en Cloud Computing e Inteligencia Artificial
+- 🚀 Siempre aprendiendo nuevas tecnologías
 
 ---
 
-## Tecnologías
+# 🛠 Tecnologías
 
 <p align="center">
-  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
-  <a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
-  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
-  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
-  <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" /></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
-  <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
-  <a href="https://vitejs.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /></a>
-  <a href="https://vuejs.org/" title="Vue"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" /></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite,php,laravel,nodejs,python,django,mysql,mongodb,postgres,aws,docker,git,github,linux,postman,figma,vscode&theme=dark"/>
+
 </p>
 
 ---
 
-## Estadísticas GitHub
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&v=20260710" 
-  alt="GitHub Stats"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&v=20260710" 
-  alt="Lenguajes más usados"
-/>
-
-</td>
-</tr>
-</table>
-
-## Racha de contribuciones
+# 📚 Actualmente aprendiendo
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260710"
-    alt="GitHub Streak"
-  />
+
+☁ AWS Cloud &nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 Anthropic AI &nbsp;&nbsp;•&nbsp;&nbsp;
+🐳 Docker &nbsp;&nbsp;•&nbsp;&nbsp;
+⚙ Jenkins
+
 </p>
 
-## Actividad de contribuciones
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake.svg" 
-    alt="Snake Animation"
-  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-## 📫 Contacto
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <a href="mailto:jpml11292006@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Email-jpml11292006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
 
-  <a href="https://wa.me/573508884148">
-    <img 
-      src="https://img.shields.io/badge/WhatsApp-+57%20350%20888%204148-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      alt="WhatsApp"
-    />
-  </a>
+<img src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true"/>
 
-  <a href="https://github.com/PabloMartinez29">
-    <img 
-      src="https://img.shields.io/badge/GitHub-PabloMartinez29-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
 </p>
 
+---
+
+# 📈 Contribution Graph
+
 <p align="center">
-  🚀 Siempre abierto a aprender y mejorar como desarrollador.
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🎧 Spotify
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_USUARIO_DE_SPOTIFY&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+
+</p>
+
+> Cuando configuremos Spotify, aquí aparecerá automáticamente la canción que estés escuchando (por ejemplo, The Weeknd).
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="mailto:jpml11292006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/PabloMartinez29">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;
+
+<a href="https://wa.me/573508884148">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
