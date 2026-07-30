@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=PabloMartinez29&theme=tokyonight&hide_border=true&type=png&v=20260730b" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260730c" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -94,7 +94,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&v=20260730" alt="GitHub Trophies"/>
+  <img src="https://trophy.ryglcloud.net/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=2&margin-w=15&title=Commits,PullRequest&v=20260730c" alt="GitHub Trophies"/>
 </p>
 
 ---
