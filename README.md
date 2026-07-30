@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260730c" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260730d" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -67,7 +67,7 @@
 <table align="center">
   <tr>
     <td width="72%" valign="top" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260730" alt="Contribution Graph" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260730d" alt="Contribution Graph" width="100%"/>
     </td>
     <td width="28%" valign="top" align="center">
       <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
@@ -86,7 +86,7 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg?v=20260730" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg?v=20260730d" alt="Snake Animation"/>
 </p>
 
 ---
