@@ -13,7 +13,6 @@
 
 ## 👨🏻‍💻 Sobre mí
 
-- 🎓 Formación en el SENA
 - 💻 Desarrollador de software
 - 🎨 Apasionado por el desarrollo web, la experiencia de usuario (UI/UX) y el Backend
 - ☁ Interesado en Cloud Computing e Inteligencia Artificial
@@ -33,9 +32,7 @@
 
 <p align="center">
 ☁ AWS Cloud &nbsp;&nbsp;•&nbsp;&nbsp;
-🤖 Anthropic AI &nbsp;&nbsp;•&nbsp;&nbsp;
-🐳 Docker &nbsp;&nbsp;•&nbsp;&nbsp;
-⚙ Jenkins
+🤖 Anthropic AI
 </p>
 
 ---
@@ -63,18 +60,27 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph & Spotify
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260730" alt="Contribution Graph"/>
-</p>
+<table align="center">
+  <tr>
+    <td width="72%" valign="top" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260730" alt="Contribution Graph" width="100%"/>
+    </td>
+    <td width="28%" valign="top" align="center">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ualxxyn7ycjwujqigjxg47q4fq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="spotify-github-profile" width="220"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg?v=20260730" alt="Snake Animation"/>
 </p>
 
 ---
@@ -82,17 +88,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&v=20260730" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🎧 Spotify
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ualxxyn7ycjwujqigjxg47q4fq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="spotify-github-profile"/>
-  </a>
+  <img src="https://trophy.ryglcloud.net/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&v=20260730" alt="GitHub Trophies"/>
 </p>
 
 ---
