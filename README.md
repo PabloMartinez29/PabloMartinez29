@@ -1,132 +1,108 @@
 <h1 align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Juan+Pablo+Martinez+Lievano;Full+Stack+Developer;Frontend+%E2%80%A2+Backend+%E2%80%A2+Cloud;Always+Learning+New+Technologies"/>
-
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Juan+Pablo+Martinez+Lievano;Software+Developer;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
 </h1>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PabloMartinez29&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=PabloMartinez29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-# 👨🏻‍💻 Sobre mí
+## 👨🏻‍💻 Sobre mí
 
-- 🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA)
-- 💻 Full Stack Developer
-- 🎨 Apasionado por el desarrollo Frontend, la experiencia de usuario (UI/UX) y el Backend
+- 🎓 Formación en el SENA
+- 💻 Desarrollador de software
+- 🎨 Apasionado por el desarrollo web, la experiencia de usuario (UI/UX) y el Backend
 - ☁ Interesado en Cloud Computing e Inteligencia Artificial
 - 🚀 Siempre aprendiendo nuevas tecnologías
 
 ---
 
-# 🛠 Tecnologías
+## 🛠 Tecnologías
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite,php,laravel,nodejs,python,django,mysql,mongodb,postgres,aws,docker,git,github,linux,postman,figma,vscode&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite,php,laravel,nodejs,python,django,mysql,mongodb,postgres,aws,docker,git,github,linux,postman,figma,vscode&theme=dark" alt="Tecnologías"/>
 </p>
 
 ---
 
-# 📚 Actualmente aprendiendo
+## 📚 Actualmente aprendiendo
 
 <p align="center">
-
 ☁ AWS Cloud &nbsp;&nbsp;•&nbsp;&nbsp;
 🤖 Anthropic AI &nbsp;&nbsp;•&nbsp;&nbsp;
 🐳 Docker &nbsp;&nbsp;•&nbsp;&nbsp;
 ⚙ Jenkins
-
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&v=20260730" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&v=20260730" alt="Lenguajes más usados"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260730" alt="GitHub Streak"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260730" alt="Contribution Graph"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contributions
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
-# 🐍 Contributions
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&v=20260730" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🎧 Spotify
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/login">
+    <img src="https://img.shields.io/badge/Conectar_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Conectar Spotify"/>
+  </a>
 </p>
+
+> Para activar la canción en vivo: entra al enlace de arriba, inicia sesión con Spotify, copia el `uid` que te dan y pásamelo para ponerlo aquí.
 
 ---
 
-# 🎧 Spotify
+## 📫 Contacto
 
 <p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_USUARIO_DE_SPOTIFY&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-
-</p>
-
-> Cuando configuremos Spotify, aquí aparecerá automáticamente la canción que estés escuchando (por ejemplo, The Weeknd).
-
----
-
-# 📫 Contacto
-
-<p align="center">
-
-<a href="mailto:jpml11292006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/PabloMartinez29">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-&nbsp;
-
-<a href="https://wa.me/573508884148">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
+  <a href="mailto:jpml11292006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/PabloMartinez29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://wa.me/573508884148"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
