@@ -15,7 +15,7 @@
 
 - 🎓 Tecnólogo en Análisis y Desarrollo de Software
 - 🎨 Apasionado por el desarrollo web, la experiencia de usuario (UI/UX) y el Backend
-- ☁ Interesado en AWS e IA
+- ☁ Interesado en Aprendizaje continuo AWS & IA
 - 🚀 Siempre aprendiendo nuevas tecnologías
 
 ---
