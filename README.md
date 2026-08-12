@@ -42,10 +42,10 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&v=20260730" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&v=20260811" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&v=20260730" alt="Lenguajes más usados"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&v=20260811" alt="Lenguajes más usados"/>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260730d" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260811" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -67,7 +67,7 @@
 <table align="center">
   <tr>
     <td width="72%" valign="top" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260730d" alt="Contribution Graph" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260811" alt="Contribution Graph" width="100%"/>
     </td>
     <td width="28%" valign="top" align="center">
       <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
