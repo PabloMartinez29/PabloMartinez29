@@ -42,10 +42,10 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&v=20260811" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&v=20260811b" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&v=20260811" alt="Lenguajes más usados"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&v=20260811b" alt="Lenguajes más usados"/>
     </td>
   </tr>
 </table>
