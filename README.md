@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260811" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260814" alt="GitHub Streak"/>
   </a>
 </p>
 
