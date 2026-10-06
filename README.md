@@ -23,7 +23,7 @@
 ## 🛠 Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite,php,laravel,nodejs,python,django,mysql,mongodb,postgres,aws,docker,git,github,linux,postman,figma,vscode&theme=dark" alt="Tecnologías"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,vue,tailwind,bootstrap,vite,php,laravel,nodejs,python,django,mysql,mongodb,postgres,aws,docker,git,github,linux,postman,figma,vscode&theme=dark" alt="Tecnologías"/>
 </p>
 
 ---
