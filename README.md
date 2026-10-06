@@ -42,10 +42,10 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&v=20260811b" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&v=20261005" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&v=20260811b" alt="Lenguajes más usados"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&v=20261005" alt="Lenguajes más usados"/>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20260814" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20261005" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -67,7 +67,7 @@
 <table align="center">
   <tr>
     <td width="72%" valign="top" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMartinez29&theme=tokyo-night&hide_border=true&v=20260811" alt="Contribution Graph" width="100%"/>
+      <img src="https://ghchart.rshah.org/36BCF7/PabloMartinez29" alt="Contribution Graph" width="100%"/>
     </td>
     <td width="28%" valign="top" align="center">
       <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
@@ -86,7 +86,7 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg?v=20260730d" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg?v=20261005" alt="Snake Animation"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=2&margin-w=15&title=Commits,PullRequest&v=20260730c" alt="GitHub Trophies"/>
+  <img src="https://trophy.ryglcloud.net/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=2&margin-w=15&title=Commits,PullRequest&v=20261005" alt="GitHub Trophies"/>
 </p>
 
 ---
