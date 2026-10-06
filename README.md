@@ -20,10 +20,54 @@
 
 ---
 
-## 🛠 Tecnologías
+## Profile Signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=PabloMartinez29&theme=github-dark&style=aura" alt="Profile Signal" width="860"/>
+</p>
+
+---
+
+## Selected Work
+
+<p align="center">
+  <a href="https://github.com/PabloMartinez29?tab=repositories">
+    <img src="https://www.gitskins.com/api/section/projects?username=PabloMartinez29&theme=github-dark&style=aura" alt="Selected Work" width="860"/>
+  </a>
+</p>
+
+---
+
+## Technical toolkit
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=PabloMartinez29&theme=github-dark&style=aura" alt="Language Stack" width="860"/>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,vue,tailwind,bootstrap,vite,php,laravel,nodejs,python,django,mysql,mongodb,postgres,aws,docker,git,github,linux,ubuntu,postman,figma,vscode&theme=dark" alt="Tecnologías"/>
+</p>
+
+---
+
+## Consistency signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=PabloMartinez29&theme=github-dark&style=aura" alt="Contribution Activity" width="860"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20261005b" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg?v=20261005b" alt="Snake Animation"/>
 </p>
 
 ---
@@ -32,69 +76,22 @@
 
 <p align="center">
 ☁ AWS Cloud &nbsp;&nbsp;•&nbsp;&nbsp;
-🤖 Anthropic AI
+🤖 Anthropic AI &nbsp;&nbsp;•&nbsp;&nbsp;
+🚀 Astro
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=PabloMartinez29&show_icons=true&theme=tokyonight&hide_border=true&v=20261005" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PabloMartinez29&layout=compact&theme=tokyonight&hide_border=true&v=20261005" alt="Lenguajes más usados"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔥 GitHub Streak
+## 🎧 Spotify
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-one.vercel.app/?user=PabloMartinez29&theme=tokyonight&hide_border=true&v=20261005" alt="GitHub Streak"/>
+  <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
+    <img src="https://i.scdn.co/image/ab67616d0000e1a381a3bb9348718b9703364c1c" width="220" alt="Save Your Tears - The Weeknd"/>
   </a>
-</p>
-
----
-
-## 📈 Contribution Graph & Spotify
-
-<table align="center">
-  <tr>
-    <td width="72%" valign="top" align="center">
-      <img src="https://ghchart.rshah.org/36BCF7/PabloMartinez29" alt="Contribution Graph" width="100%"/>
-    </td>
-    <td width="28%" valign="top" align="center">
-      <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
-        <img src="https://i.scdn.co/image/ab67616d0000e1a381a3bb9348718b9703364c1c" width="220" alt="Save Your Tears - The Weeknd"/>
-      </a>
-      <br/>
-      <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
-        <img src="https://img.shields.io/badge/♪_Save_Your_Tears-The_Weeknd-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Save Your Tears"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PabloMartinez29/PabloMartinez29/output/github-contribution-grid-snake-dark.svg?v=20261005" alt="Snake Animation"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=PabloMartinez29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=2&margin-w=15&title=Commits,PullRequest&v=20261005" alt="GitHub Trophies"/>
+  <br/>
+  <a href="https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g">
+    <img src="https://img.shields.io/badge/♪_Save_Your_Tears-The_Weeknd-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Save Your Tears"/>
+  </a>
 </p>
 
 ---
